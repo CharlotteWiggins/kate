@@ -1,0 +1,8 @@
+import java.util.Scanner;
+
+public class StringVariables {
+String first_name;
+System.out.print("Enter your first name: ");
+first_name = user_input.next( );
+System.out.println(first_name);
+]
